@@ -1,4 +1,4 @@
-**# Bem vindos ao meu perfil!💟**
+**Bem vindos ao meu perfil!💟**
 - Meu nome é Rafa Pasqualetti
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
